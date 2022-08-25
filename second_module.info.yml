@@ -1,0 +1,6 @@
+name: Second Module
+type: module
+description: The Second Module is coming soon
+package: custom
+version: 1.0.1
+core_version_requirement: ^8 || ^9
